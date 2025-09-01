@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
   <url>
     <loc>https://vantagescope.co.uk/</loc>
     <lastmod>2025-09-01</lastmod>
@@ -24,4 +26,107 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Service Pages -->
+  <url>
+    <loc>https://vantagescope.co.uk/services/it-support/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/services/cloud-solutions/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/services/cyber-security/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/services/automation/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Workflow Steps -->
+  <url>
+    <loc>https://vantagescope.co.uk/workflow/assess/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/workflow/plan/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/workflow/implement/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/workflow/support/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/workflow/optimise/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sector Pages -->
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/healthcare/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/events/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/marketing/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/startups/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/charities/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/manufacturing/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vantagescope.co.uk/sectors/finance/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
